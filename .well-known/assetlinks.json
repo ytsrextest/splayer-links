@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.splayer",
+      "sha256_cert_fingerprints": [
+        "C2:69:9C:AD:DB:8D:44:70:7C:43:E3:CD:3E:49:68:47:35:23:E4:16:37:09:50:AF:AE:FC:A2:4A:24:63:B3:51"
+      ]
+    }
+  }
+]
